@@ -1,0 +1,2 @@
+# Hydra
+Gomoku game AI
